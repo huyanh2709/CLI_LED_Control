@@ -1,0 +1,2 @@
+../Application/cli_command.c:15:27:find_command_info	5
+../Application/cli_command.c:50:6:cli_command_execute	4

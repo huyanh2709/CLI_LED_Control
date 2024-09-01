@@ -1,0 +1,2 @@
+../Application/set_tempt_ci.c:10:6:setTempeartureMax	16	static
+../Application/set_tempt_ci.c:27:6:setTempeartureMin	16	static

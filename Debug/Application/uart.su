@@ -1,0 +1,2 @@
+../Application/uart.c:18:6:uart_Rxdata_receive	16	static
+../Application/uart.c:33:6:uart_Rxdata_handle	8	static

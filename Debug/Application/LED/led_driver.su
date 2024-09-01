@@ -1,0 +1,4 @@
+../Application/LED/led_driver.c:11:6:led_driver_set_led	16	static
+../Application/LED/led_driver.c:17:6:led_driver_toggle_led	16	static
+../Application/LED/led_driver.c:23:6:led_driver_set_all_led	24	static
+../Application/LED/led_driver.c:31:6:led_driver_init	4	static

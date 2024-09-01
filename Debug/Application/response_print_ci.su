@@ -1,0 +1,2 @@
+../Application/response_print_ci.c:14:6:response_print	120	static
+../Application/response_print_ci.c:31:6:response_uart_init	16	static
